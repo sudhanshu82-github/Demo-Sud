@@ -1,1 +1,1 @@
-# Demo-Sud
+# Edu-Sud
